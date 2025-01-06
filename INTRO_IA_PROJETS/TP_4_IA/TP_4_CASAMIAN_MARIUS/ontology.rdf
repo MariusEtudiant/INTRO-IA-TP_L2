@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://uca.fr/property/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+  <rdf:Description rdf:about="http://uca.fr/family/member/Edouard">
+    <rdf:type rdf:resource="http://cestbieng.fr/types/Person"/>
+    <rdf:type rdf:resource="http://uca.fr/professions/teacher"/>
+    <ns0:gender rdf:resource="http://cestbieng.fr/types/man"/>
+    <ns0:name>Edouard</ns0:name>
+    <ns0:shoesize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</ns0:shoesize>
+    <ns0:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ns0:age>
+    <ns0:size rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns0:size>
+    <ns0:spouse rdf:resource="http://uca.fr/family/member/Jessica"/>
+    <foaf:knows rdf:resource="http://uca.fr/staff/Alice"/>
+    <foaf:knows rdf:resource="http://uca.fr/staff/Pierre"/>
+    <ns0:parent>
+      <rdf:Description rdf:about="http://uca.fr/family/member/Jean">
+        <rdf:type rdf:resource="http://cestbieng.fr/types/Person"/>
+        <ns0:gender rdf:resource="http://cestbieng.fr/types/man"/>
+        <ns0:child rdf:resource="http://uca.fr/family/member/Edouard"/>
+        <ns0:name>Jean</ns0:name>
+        <ns0:size rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</ns0:size>
+        <ns0:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ns0:age>
+      </rdf:Description>
+    </ns0:parent>
+
+    <ns0:parent>
+      <rdf:Description rdf:about="http://uca.fr/family/member/Caroline">
+        <rdf:type rdf:resource="http://cestbieng.fr/types/Person"/>
+        <ns0:gender rdf:resource="http://cestbieng.fr/types/woman"/>
+        <ns0:child rdf:resource="http://uca.fr/family/member/Edouard"/>
+        <ns0:name>Caroline</ns0:name>
+        <ns0:size rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</ns0:size>
+        <ns0:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</ns0:age>
+      </rdf:Description>
+    </ns0:parent>
+
+    <ns0:child>
+      <rdf:Description rdf:about="http://uca.fr/family/member/Yannick">
+        <rdf:type rdf:resource="http://cestbieng.fr/types/Person"/>
+        <ns0:gender rdf:resource="http://cestbieng.fr/types/man"/>
+        <ns0:name>Yannick</ns0:name>
+        <ns0:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:age>
+        <ns0:parent rdf:resource="http://uca.fr/family/member/Jessica"/>
+        <ns0:parent rdf:resource="http://uca.fr/family/member/Edouard"/>
+      </rdf:Description>
+    </ns0:child>
+
+    <ns0:child>
+      <rdf:Description rdf:about="http://uca.fr/family/member/Victoria">
+        <rdf:type rdf:resource="http://cestbieng.fr/types/Person"/>
+        <ns0:gender rdf:resource="http://cestbieng.fr/types/woman"/>
+        <ns0:name>Victoria</ns0:name>
+        <ns0:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns0:age>
+        <ns0:parent rdf:resource="http://uca.fr/family/member/Jessica"/>
+        <ns0:parent rdf:resource="http://uca.fr/family/member/Edouard"/>
+      </rdf:Description>
+    </ns0:child>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://uca.fr/family/member/Jessica">
+    <rdf:type rdf:resource="http://cestbieng.fr/types/Person"/>
+    <ns0:gender rdf:resource="http://cestbieng.fr/types/woman"/>
+    <ns0:name>Jessica</ns0:name>
+    <ns0:size rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</ns0:size>
+    <ns0:pantsize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ns0:pantsize>
+    <ns0:spouse rdf:resource="http://uca.fr/family/member/Edouard"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://uca.fr/staff/Alice">
+    <rdf:type rdf:resource="http://cestbieng.fr/types/Person"/>
+    <rdf:type rdf:resource="http://uca.fr/professions/teacher"/>
+    <ns0:gender rdf:resource="http://cestbieng.fr/types/woman"/>
+    <ns0:name>Alice</ns0:name>
+    <foaf:knows rdf:resource="http://uca.fr/staff/Pierre"/>
+    <foaf:knows rdf:resource="http://uca.fr/staff/Edouard"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://uca.fr/staff/Pierre">
+    <rdf:type rdf:resource="http://cestbieng.fr/types/Person"/>
+    <rdf:type rdf:resource="http://uca.fr/professions/teacher"/>
+    <ns0:gender rdf:resource="http://cestbieng.fr/types/man"/>
+    <ns0:name>Pierre</ns0:name>
+    <foaf:knows rdf:resource="http://uca.fr/staff/Alice"/>
+    <foaf:knows rdf:resource="http://uca.fr/staff/Edouard"/>
+  </rdf:Description>
+
+</rdf:RDF>

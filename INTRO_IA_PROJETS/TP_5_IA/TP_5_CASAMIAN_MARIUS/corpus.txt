@@ -1,0 +1,996 @@
+When owl:sameAs is the Same: Experimenting Online Resolution of Identity with SPARQL queries to Linked Open Data Sources
+A Simplified Benchmark for Non-ambiguous Explanations of Knowledge Graph Link Prediction using Relational Graph Convolutional Networks
+Biodiversity Knowledge Graphs: Time to move up a gear!
+Semi-relaxed Gromov Wasserstein divergence with applications on graphs
+Dessine-moi un graphe de connaissances !
+The effects of VR in training simulators: Exploring perception and knowledge gain
+Identification of Spatiotemporal Dispersion Electrograms in Atrial Fibrillation Ablation Using Machine Learning: A Comparative Study
+Kernel-Matrix Determinant Estimates from stopped Cholesky Decomposition
+Identification of active modules in interaction networks using node2vec network embedding
+Visualization of Object-Oriented Variability Implementations as Cities
+User knowledge and Search Goals in Information Retrieval: A benchmark and study on the evolution of users’ knowledge gain
+Representing, Tracking and Revising the User’s Knowledge: A Search Result Filter Framework
+Extending the Identification of Object-Oriented Variability Implementations using Usage Relationships
+How I Met Your Implemented Variability: Identification in Object-Oriented Systems with symfinder
+Capturing the diversity of analyses on the Linux kernel variability
+"Don't discuss": Investigating Semantic and Argumentative Features for Supervised Propagandist Message Detection and Classification
+Active Speaker Detection as a Multi-Objective Optimization with Uncertainty-Based Multimodal Fusion
+Online Graph Dictionary Learning
+What does LIME really see in images?
+Capturing the diversity of analyses on the Linux kernel variability – Companion Technical Report
+ARViz: Interactive Visualization of Association Rules for RDF Data Exploration
+Towards a Visual Approach for Representing Analytical Provenance in Exploration Processes
+A New Class of Stochastic EM Algorithms
+Covid-on-the-Web: Graphe de Connaissances et Services pour faire Progresser la Recherche sur la COVID-19
+eSTIMe : outil de géovisualisation pour accompagner l’analyse des mobilités quotidiennes
+Usages de nouvelles technologies numériques d’apprentissage et pratiques émergentes dans un contexte de crise : Une analyse par le prisme de l’activité des étudiant(e)s sur Moodle
+Towards a Linked Open Code
+Tensor decomposition for learning Gaussian mixtures from moments
+The WASABI Dataset: Cultural, Lyrics and Audio Analysis Metadata About 2 Million Popular Commercially Released Songs
+A Bayesian Fisher-EM algorithm for discriminative Gaussian subspace clustering
+Enhancing Evidence-Based Medicine with Natural Language Argumentative Analysis of Clinical Trials
+not-MIWAE: Deep Generative Modelling with Missing not at Random Data
+You can simply rely on communities for a robust characterization of stances
+An Analysis of LIME for Text Data
+Comparison-based centrality measures
+Customer Choice Modelling: A Multi-Level Consensus Clustering Approach
+Knowledge engineering in the sourcing domain for the recommendation of    providers
+Psychologie​ des​ êtres artificiels #PsyArti
+Le Handicap à Université Côte d’Azur : Une Politique innovante et inclusive, une Mission transverse
+Intelligence Artificielle et Psychologie des êtres artificiels #PsyArti
+Co-clustering of evolving count matrices in pharmacovigilance with the dynamic latent block model
+Construire une politique handicap
+Identification of Spatiotemporal Dispersion Electrograms in Persistent Atrial Fibrillation Ablation Using Maximal Voltage Absolute Values
+Hierarchical Multimodal Attention for Deep Video Summarization
+SAILenv: Learning in Virtual Visual Environments Made Simple
+Learning URI Selection Criteria to Improve the Crawling of Linked Open Data (Extended Abstract)
+Unobserved classes and extra variables in high-dimensional discriminant analysis
+Co-clustering of Time-Dependent Data via the Shape Invariant Model
+Learning and Reasoning for Cultural Metadata Quality
+Extraction d’arguments basée sur les transformateurs pour des applications dans le domaine de la santé
+Sifting French Tweets to Investigate the Impact of Covid-19 in Triggering Intense Anxiety
+Lyrics segmentation via bimodal text–audio representation
+Web Futures: Inclusive, Intelligent, Sustainable The 2020 Manifesto for Web Science
+A coherent framework for learning spatiotemporal piecewise-geodesic trajectories from longitudinal manifold-valued data
+TRACK: A New Method from a Re-examination of Deep Architectures for Head Motion Prediction in 360-degree Videos
+Moultaka
+Co-Clustering of Multivariate Functional Data for the Analysis of Air Pollution in the South of France
+Hierarchical clustering with discrete latent variable models and the integrated classification likelihood
+B
+Argument Mining on Clinical Trials
+A Dataset Independent Set of Baselines for Relation Prediction in Argument Mining
+Injection of Knowledge in a Sourcing Recommender System
+MoRAI: Geographic and Semantic Overlay Network for Linked Data Access with Intermittent Internet Connectivity
+Mining RDF Data of COVID-19 Scientific Literature for Interesting Association Rules
+A Multi-Objective Evolutionary Approach to Class Disjointness Axiom Discovery
+Regrexit or not Regrexit: Aspect-based Sentiment Analysis in Polarized Contexts
+A Parsimonious Tour of Bayesian Model Uncertainty
+An Optimal Control Approach to Learning in SIDARTHE Epidemic model
+Employing a Systematic Approach to Biobanking and Analyzing Genetic and Clinical Data for Advancing COVID-19 Research
+Focus of Attention Improves Information Transfer in Visual Features
+Variability-intensive applications over highly-configurable platforms : Early feasibility and optimality analysis
+A FAUST-based re-creation of the power amp stage for WebAudio-based simulations of guitar tube amplifiers
+From Diagram to Code: a Web-based Interactive Graph Editor for Faust DSP Design and Code Generation
+Cumulative learning enables convolutional neural network representations for small mass spectrometry data classification
+Santé mentale, quelles postures managériales et quels dispositifs d'accompagnement ?
+Legal Knowledge and Information Systems
+Using Faust DSL to Develop Custom, Sample Accurate DSP Code and Audio Plugins for the Web Browser
+A Generic Multimodels-Based Approach for the Analysis of Usability and Security of Authentication Mechanisms
+Multitask Aspect_Based Sentiment Analysis with Integrated Bidirectional LSTM & CNN Model
+Sifting the Arguments in Fake News to Boost a Disinformation Analysis Tool
+DeepLTRS: A Deep Latent Recommender System based on User Ratings and Reviews
+Les IA comprennent-elles ce qu’elles font ?
+Hybrid Emoji-Based Masked Language Models for Zero-Shot Abusive Language Detection
+Computational search of hybrid human/ SARS-CoV-2 dsRNA reveals unique viral sequences that diverge from other coronavirus strains
+Covid-on-the-Web: Knowledge Graph and Services to Advance COVID-19 Research
+TRACK: A Multi-Modal Deep Architecture for Head Motion Prediction in 360-Degree Videos
+Artificial Intelligence to Extract, Analyze and Generate Knowledge and Arguments from Texts to Support Informed Interaction and Decision Making
+Identifying a reliable radiomic signature from scarce data: illustration for 18F-FDOPA PET images in glioblastoma patients
+Identifying and Mapping Implemented Variabilities in Java and C++ Systems using symfinder
+Unleash the Potential of your Website! 180,000 webpages from the French Natural History Museum marked up with Bioschemas/Schema.org biodiversity types
+Semi-supervised Consensus Clustering Based on Frequent Closed Itemsets: Amadeus Intellectual Property Invention Patent ID2326WW00 "Clustering Techniques for Revenue Accounting Error-Handling Automation" Defensive Paper
+A Bayesian approach for clustering and exact finite-sample model selection in longitudinal data mixtures
+Supervised learning for Human Action Recognition from multiple Kinects
+Looking Deeper into Tabular LIME
+Profiling Actions for Sport Video Summarization: An attention signal analysis
+B
+Analysis of Term Reuse, Term Overlap and Extracted Mappings across AgroPortal Semantic Resources
+An Overview on the Web of Clinical Data
+B
+A Knowledge Graph Enhanced Learner Model to Predict Outcomes to Questions in the Medical Field
+Investigating One Million XRefs in Thirthy Ontologies from the OBO World
+Identification of Ablation Sites in Persistent Atrial Fibrillation Based on Spatiotemporal Dispersion of Electrograms Using Machine Learning
+Generating Adversarial Examples for Topic-dependent Argument Classification
+Dataset Independent Baselines for Relation Prediction in Argument Mining
+Classifying Candidate Axioms via Dimensionality Reduction Techniques
+A framework for managing the imperfect modularity of variability implementations
+AVI '20: Proceedings of the International Conference on Advanced Visual Interfaces
+Enriching Language Models with Semantics
+B
+Transformer-based Argument Mining for Healthcare Applications
+Explaining the Explainer: A First Theoretical Analysis of LIME
+DiagnoseNET: Automatic Framework to Scale Neural Networks on Heterogeneous Systems Applied to Medical Diagnosis
+A Multi-Level Consensus Clustering Framework for Customer Choice Modelling in Travel Industry
+FAIRness Literacy: The Achilles’ Heel of Applying FAIR Principles
+Secure Email - A Usability Study
+Data Augmentation for Automatic Identification of Spatiotemporal Dispersion Electrograms in Persistent Atrial Fibrillation Ablation Using Machine Learning
+Grammatical Evolution to Mine OWL Disjointness Axioms Involving Complex Concept Expressions
+Negative Dependence Tightens Variational Bounds
+How to deal with missing data in supervised deep learning?
+The Dynamic Latent Block Model for Sparse and Evolving Count Matrices
+Missing rating imputation based on product reviews via deep latent variable models
+Can we identify "twin patients" to predict response to neoadjuvant chemotherapy in breast cancer?
+Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective
+Human-Driven FOL Explanations of Deep Learning
+Ensemble Clustering Based Semi-Supervised Learning for Revenue Accounting Workflow Management: Amadeus Intellectual Property Invention Patent ID2326WW00 "Clustering Techniques for Revenue Accounting Error-Handling Automation" Defensive Paper
+Clustering Techniques for Revenue Accounting Error-Handling Automation
+Du texte à l'intertexte
+Adverse drug reactions detection in clinical notes
+A Hybrid Bi-LSTM-CRF Model for Sequence Labeling Applied to the Sourcing Domain
+Visualizing ECG Contribution into Convolutional Neural Network Classification
+Mining evolutions of complex spatial objects using a single-attributed Directed Acyclic Graph
+Entrain, exploring new territorial user interfaces
+Backprop Diffusion is Biologically Plausible
+Wave Propagation of Visual Stimuli in Focus of Attention
+A Glimpse into the Past, Present, and Future of Engineering Interactive Computing Systems
+Ensuring the Consistency between User Requirements and Task Models: A Behavior-Based Automated Approach
+Hyperdeep : deep learning descriptif pour l'analyse de données textuelles
+Objectiver l'intertexte ? Emmanuel Macron, deep learning et statistique textuelle
+Semantic Web for the Working Ontologist
+Une toile de fond pour le Web : lier les données et lier leurs vocabulaires sur la toile, pour un Web plus accessible aux machines
+Autonomous search in a social and ubiquitous Web
+A Unified Evaluation Framework for Head Motion Prediction Methods in 360° Videos
+The dynamic latent block model for the co-clustering of evolving binary matrices
+Possibilistic Estimation of Distributions to Leverage Sparse Data in Machine Learning
+NIH peer review: Criterion scores completely account for racial disparities in overall impact scores
+EICS '20 Companion: Companion Proceedings of the 12th ACM SIGCHI Symposium on Engineering Interactive Computing Systems
+A Multilingual Evaluation for Online Hate Speech Detection
+Accompagner la transformation des pratiques enseignantes à l’Université Côte d’Azur par le biais d’une approche centrée sur la professionnalisation des enseignant.e.s
+Multi-objective Consensus Clustering Framework for Flight Search Recommendation
+Natural language processing for music information retrieval : deep analysis of lyrics structure and content
+Love Me, Love Me, Say (and Write!) that You Love Me: Enriching the WASABI Song Corpus with Lyrics Annotations
+Knowledge graphs based extension of patients’ folders to predict hospitalization
+Semi-Supervised Consensus Clustering Based on Frequent Closed Itemsets
+NEWMA: a new method for scalable model-free online change-point detection
+Emerging W3C APIs opened up commercial opportunities for computer music applications
+Transcriptome-wide-scale-predicted dsRNAs potentially involved in RNA homoeostasis are remarkably excluded from genes with no/very low expression in all developmental stages
+Injection of Automatically Selected DBpedia Subjects in Electronic Medical Records to boost Hospitalization Prediction
+High-Dimensional Statistical Learning and Its Application to Oncological Diagnosis by Radiomics
+Path Outlines: Browsing Path-Based Summaries of Linked Datasets
+CLASSIFICATION SUPERVISÉE DE DONNÉES PÉDAGOGIQUES POUR LA RÉUSSITE DANS L'ENSEIGNEMENT SUPÉRIEUR
+Clustering multivariate functional data in group-specific functional subspaces
+Mapping Features to Automatically Identified Object-Oriented Variability Implementations - The case of ArgoUML-SPL
+Multi-objective Consensus Clustering Framework for Flight Search Recommendation Extended
+Development and Operation of Trustworthy Smart IoT Systems: The ENACT Framework
+Automatic Generation of Questions from DBpedia
+A Hitchhiker's Guide to Model-Driven Engineering for Data-Centric Systems
+Random sampling and machine learning to understand good decompositions
+Taking stock of legal ontologies: a feature-based comparative analysis
+Effectiveness assessment of Cyber-Physical Systems
+Co-clustering of ordinal data via latent continuous random variables and not missing at random entries
+Gravitational Models Explain Shifts on Human Visual Attention
+Exact Dimensionality Selection for Bayesian PCA
+Key Passages : From statistics to Deep Learning
+Beyond Interactions: INTERACT 2019 IFIP TC 13 Workshops 2019, Revised Selected Papers
+Greedy clustering of count data through a mixture of multinomial PCA
+A unified view on patch aggregation
+A context manager for solving conflicts between designer’s viewpoints
+Territoires et IHM Distribuées : Raffinement de Règles et d'une Méthode de Conception de Jeux Multi-Dispositifs
+Enabling white-box reasonings on black-box composition operators in a domain-independent way
+FAUST online IDE: dynamically compile and publish FAUST code as WebAudio Plugins
+Develop WebAudio Plugins in a Web Browser
+A 2 Million Commercial Song Interactive Navigator
+Population-based meta-heuristic for active modules identification
+Cross-Platform Evaluation for Italian Hate Speech Detection
+Chemical in vitro bioactivity profiles are not informative about the long-term in vivo endocrine mediated toxicity
+Usefulness of Information for Goal Achievement
+Image Signal Processor parameter tuning with surrogate-assisted Particle Swarm Optimization
+Toward a Model for Verification of Business Logic Layer in 3-Layer Architecture: CPN-ECA Model
+Assisting Biologists in Editing Taxonomic Information by Confronting Multiple Data Sources using Linked Data Standards
+Escaping the Streetlight Effect: Semantic Hypermedia Search Enhances Autonomous Behavior in the Web of Things
+User-Adaptive Editing for 360 degree Video Streaming with Deep Reinforcement Learning
+D2KAB project taking off: Data to Knowledge in Agronomy and Biodiversity
+An Evolutionary Approach to Class Disjointness Axiom Discovery
+WebAudio Plugins in DAWs and for Live Performance
+Detection of energy waste in French households thanks to a co-clustering model for multivariate functional data
+Deep Learning for Identification of Adverse Drug Reaction Relations
+Interpretability of Gradual Semantics in Abstract Argumentation
+Usage Scenarios for a Common Feature Modeling Language
+An Ontology Alignment Approach Combining Word Embedding and the Radius Measure
+Identifying and visualizing variability in object-oriented variability-rich systems
+Ontology Design Rules Based On Comparability Via Particular Relations
+Analysing the Impact of Rationality on the Italian Electricity Market
+Comparing Automated Methods to Detect Explicit Content in Song Lyrics
+Song Lyrics Summarization Inspired by Audio Thumbnailing
+A Machine Learning Approach to Study the Relationship between Features of the Urban Environment and Street Value
+Reviewing the Qualifiers of Imperfection in Geographic Information
+A delta‐oriented approach to support the safe reuse of black‐box code rewriters
+DISPUTool -- A tool for the Argumentative Analysis of Political Debates
+ACTA: A Tool for Argumentative Clinical Trial Analysis
+Yes, we can! Mining Arguments in 50 Years of US Presidential Campaign Debates
+Analysing the Impact of Rationality on the Italian Electricity Market
+GeneSIS: Continuous Orchestration and Deployment of Smart IoT Systems
+Evaluation of the use of public toxicological data for chemical hazard prediction through computational methods
+Advances in Deployment and Orchestration Approaches for IoT - A Systematic Review
+Analyse de l'apprentissage humain dans la plateforme SIDES 3.0 : une approche basée sur la sémantique
+Publishing Uncertainty on the Semantic Web: Blurring the LOD Bubbles
+Interface d'Aide à la Décision pour Prédire l'Hospitalisation de Patients et planifier les Actions Préventives pour Prévenir cet Événement
+The Web We Mix: Benevolent AIs for a Resilient Web
+Interoperability/Reusability of high level WebAudio components
+A New Adaptation Lever in 360° Video Streaming
+An Attempt to Fathom the Role of Annotations in User-Centered Design Process
+Modelling Dialogues for Optimal Legislation
+Personal Information Controller Service (PICS)
+An End-User Pipeline for Scraping and Visualizing Semi-Structured Data over the Web
+Exploiting Interaction Affordances: On Engineering Autonomous Systems for the Web of Things
+Injecting Domain Knowledge in Electronic Medical Records to Improve Hospitalization Prediction
+Learning URI Selection Criteria to Improve the Crawling of Linked Open Data
+Introduction for artificial intelligence and law: special issue “natural language processing for legal texts”
+Towards Sampling and Simulation-Based Analysis of Featured Weighted Automata
+Multifaceted Automated Analyses for Variability-Intensive Embedded Systems
+Convolutional Ladder Networks for Legal {NERC} and the Impact of Unsupervised Data in Better Generalizations
+Different Flavors of Attention Networks for Argument Mining
+A Decade in Hindsight: The Missing Bridge Between Multi-Agent Systems and the World Wide Web
+Engineering Scalable Distributed Environments and Organizations for MAS
+Enabling Automatic Discovery and Querying of Web APIs at Web Scale using Linked Data Standards
+Linking and Negotiating Uncertainty Theories Over Linked Data
+A Systematic Mapping Study of Deployment and Orchestration Approaches for IoT
+Learning Class Disjointness Axioms Using Grammatical Evolution
+Overwhelmed by Negative Emotions? Maybe You Are Being Cyber-bullied!
+The preliminary results of a mapping study of deployment and orchestration for IoT
+Adoption of BioPortal's Ontology Registry Software: The Emerging OntoPortal Community
+Linked Open Data Validity -- A Technical Report from ISWS 2018
+Constructing Metrics for Evaluating Multi-Relational Association Rules in the Semantic Web from Metrics for Scoring Association Rules
+From BPMN to Live Application: How the Context Can Drive an Auto-Adapted System
+Prioritized norms in formal argumentation
+Graph Data on the Web: extend the pivot, don't reinvent the wheel
+Stacked Generalization with Applicability Domain Outperforms Simple QSAR on in Vitro Toxicological Data
+Human-in-the-Loop Feature Selection
+Évaluation des améliorations de prédiction d'hospitalisation par l'ajout de connaissances métier aux dossiers médicaux
+Bridging the Semantic Web and NoSQL Worlds: Generic SPARQL Query Translation and Application to MongoDB
+Human-Computer Interaction – INTERACT 2019: 17th IFIP TC 13 International Conference, Paphos, Cyprus, September 2–6, 2019, Proceedings, Part IV: 17th IFIP TC 13 International Conference, Paphos, Cyprus, September 2–6, 2019, Proceedings, Part IV
+Human-Centered Software Engineering: 7th IFIP WG 13.2 International Working Conference, HCSE 2018, Sophia Antipolis, France, September 3–5, 2018, Revised Selected Papers
+Executing, Comparing, and Reusing Linked Data-Based Recommendation Algorithms With the Allied Framework
+Principles and practice of multi-agent systems
+SPLC '19: Proceedings of the 23rd International Systems and Software Product Line Conference - Volume A
+The Semantic Web – ISWC 2019: 18th International Semantic Web Conference, Auckland, New Zealand, October 26–30, 2019, Proceedings, Part II
+The Semantic Web – ISWC 2019: 18th International Semantic Web Conference, Auckland, New Zealand, October 26–30, 2019, Proceedings, Part I
+Model-Based Clustering and Classification for Data Science: With Applications in R
+Web Science, Artificial Intelligence and Intelligence Augmentation (in Dagstuhl Perspectives Workshop 18262 - 10 Years of Web Science: Closing The Loop)
+Révision des qualificatifs de l'imparfait pour l'information géographique
+Deep learning et authentification des textes
+New interactive strategies for virtual reality streaming in degraded context of use
+Extracting common sense knowledge via triple ranking using supervised and unsupervised distributional models
+Description de contenu vidéo : mouvements et élasticité temporelle
+SPARQL distributed query processing over linked data
+Comparing Different Supervised Approaches to Hate Speech Detection
+Active learning and input space analysis for deep networks
+From wikis to tube guitar amplifier simulations, the universal web platform...
+Integration of Web APIs and Linked Data Using SPARQL Micro-Services - Application to Biodiversity Use Cases
+Interpretable Credit Application Predictions With Counterfactual Explanations
+A Survey of the First 20 Years of Research on Semantic Web and Linked Data
+Evaluating exploratory search engines : designing a set of user-centered methods based on a modeling of the exploratory search process
+MonaLIA 1.0 preliminary study on the coupling learning and reasoning for image recognition to  enrich the records of in the Joconde database
+Studying the Effect of Robustness Measures in Offline Parameter Tuning for Estimating the Performance of MOEA/D
+Posters and Demonstrations at EKAW
+Justification Factory : de l'élicitation d'exigences de justification jusqu'à leur production en continu
+Modèles Sémantiques dans l'intégration des systèmes d'information pour l'éducation sur le Web
+Knowledge-based Transfer Learning Explanation
+Un Modèle de Recherche Exploratoire pour l'Évaluation de ses Systèmes & Applications
+Interfaces distribuées pour jeux de plateau : d’un retour d’expérience à des règles de conception basées sur la territorialité
+Practicing Domain-Specific Languages: From Code to Models
+How do we teach Modelling and Model-Driven Engineering? A survey
+Towards a Body of Knowledge for Model-Based Software Engineering
+Scalability Analysis of Mini-Cluster Jetson TX2 for Training DNN Applied to Healthcare
+Legal Ontologies and How to Choose Them: the InvestigatiOnt Tool
+Machine Learning to Predict Toxicity of Compounds
+Evidence Type Classification in Randomized Controlled Trials
+Predicting the Possibilistic Score of OWL Axioms through Support Vector Regression
+SMILK, trait d'union entre langue naturelle et données sur le web
+Parallel and Distributed Processing for Unsupervised Patient Phenotype Representation
+InriaFBK at Germeval 2018: Identifying Offensive Tweets Using Recurrent Neural Networks
+WAP: Ideas for a Web Audio Plug-in Standard
+Guitarists will be happy: guitar tube amp simulators and FX pedals in a virtual pedal board, and more!
+WebAudio Virtual Tube Guitar Amps and Pedal Board Design
+Semantic models in Web based Educational System integration
+Semantic-Enabled Contacts as part of an Art Project Management tracking tool: Case of Re-Source project
+Preference in Abstract Argumentation
+Argument Mining on Clinical Trials
+Integration of Biodiversity Linked Data and Web APIs using SPARQL Micro-Services
+Modelling Biodiversity Linked Data: Pragmatism May Narrow Future Opportunities
+Explainable AI: the new 42?
+Bioschemas & Schema.org: a Lightweight Semantic Layer for Life Sciences Websites
+Reconciling Requirements and Continuous Integration in an Agile Context
+Lyrics Segmentation: Textual Macrostructure Detection using Convolutions
+Heuristics for Assessing the Effective Control of Personal Data by Mobile Applications' Users
+Discovering multi-relational association rules from ontological knowledge bases to enrich ontologies
+Text Deconvolution Saliency (TDS) : a deep tool box for linguistic analysis
+Five Years of Argument Mining: a Data-driven Analysis
+Supporting Clone-and-Own in software product line
+A Possibilistic I/O Hidden Semi-Markov Model For Assessing Cyber-Physical Systems Effectiveness
+Explainable, Trustable and Emphatic Artificial Intelligence from Formal Argumentation Theory to Argumentation for Humans
+Étude de l'évolution du modèle de l'utilisateur des systèmes de construction collaborative d'ontologies
+Construction d'ontologie pour le domaine du sourcing
+Dialogues on Moral Theories
+A Model-based Heuristic Evaluation Method of Exploratory Search
+Categorization of B2B Service Offers: Lessons learnt from the Silex Use case
+Artificial Argumentation for Humans
+Integrating Uncertainty in the Semantic Web Stack
+Du code aux modèles, des modèles au code: enseigner les langages dédiés (DSL)
+Foveated Streaming of Virtual Reality Videos
+Extraction of Relevant Resources and Questions from DBpedia to Automatically Generate Quizzes on Specific Domains
+Support of Justification Elicitation: Two Industrial Reports
+Film Editing: New Levers to Improve Virtual Reality Streaming
+Bridging Web APIs and Linked Data with SPARQL Micro-Services
+Clone-and-Own Software Product Derivation Based on Developer Preferences and Cost Estimation
+Snap-changes: a Dynamic Editing Strategy for Directing Viewer's Attention in Streaming Virtual Reality Videos
+Une sémantique pour les patrons de justification
+Guiding Clone-and-Own When Creating Unplanned Products from a Software Product Line
+A Delta-oriented Approach to Support the Safe Reuse of Black-box Code Rewriters
+Increasing Argument Annotation Reproducibility by Using Inter-annotator Agreement to Improve Guidelines
+Named Entity Recognition using Neural Networks for Clinical Notes
+Automatic Generation of  Quizzes from DBpedia According to Educational Standards
+SPARQL Micro-Services: Lightweight Integration of Web APIs and Linked Data
+Real-Time Emulation of a Marshall JCM 800 Guitar Tube Amplifier, Audio FX Pedals, in a Virtual Pedal Board
+Towards a User Centric Personal Data Protection Framework
+Internet of Things education: Labor market training needs and national policies
+Predicting the Possibilistic Score of OWL Axioms through Modified Support Vector Clustering
+Programming virtual musical instruments and audio effects in the Web browser
+Enabling lock-free concurrent workers over temporal graphs composed of multiple time-series
+Assessing the Functional Feasibility of Variability-Intensive Data Flow-Oriented Systems
+Supporting Micro-services Deployment in a Safer Way: a Static Analysis and Automated Rewriting Approach
+Comparing Rule Evaluation Metrics for the Evolutionary Discovery of Multi-Relational Association Rules in the Semantic Web
+Towards an open Web Audio plug-in standard
+Applying DevOps to Machine Learning: ROCKFlows, a Story from the Trenches
+Teaching DevOps at the Graduate Level: A report from Polytech Nice Sophia
+ENACT: Development, Operation, and Quality Assurance of Trustworthy Smart IoT Systems
+Performance Comparison of the KNN and SVM Classification Algorithms in the Emotion Detection System EMOTICA
+Preface of Principles and Practice of Multi-Agent Systems
+Never Retreat, Never Retract: Argumentation Analysis for Political Speeches
+Combining Argumentation and Aspect-Based Opinion Mining: The SMACk System
+Privacy, security and policies: A review of problems and solutions with semantic web technologies
+CARS – A Spatio-Temporal BDI Recommender System: Time, Space and Uncertainty
+Modelling complex systems in Archaeology: general issues and first insights from the ModelAnSet project
+Global Thoughts, Local Designs: INTERACT 2017 IFIP TC 13 Workshops, Mumbai, India, September 25-27, 2017, Revised Selected Papers
+Normative Multi-Agent Systems (Dagstuhl Seminar 18171)
+Assessing Persuasion in Argumentation through Emotions and Mental States
+Leveraging Live Machine Learning and Deep Sleep to Support a Self-Adaptive Efficient Configuration of Battery Powered Sensors
+Functional feasibility analysis of variability-intensive data flow-oriented applications over highly-configurable platforms
+Ontologies-based Architecture for Sociocultural Knowledge Co-Construction Systems
+Pegadas: A Portal for Management and Activities Planning with Games and Environments for Education in Health
+Concern-Oriented Language Development (COLD): Fostering Reuse in Language Engineering
+Knowledge Engineering and Knowledge Management
+MDE in Support of Visualization Systems Design: a Multi-Staged Approach Tailored for Multiple Roles
+Normative Requirements as Linked Data
+Proceedings of MODELS 2017 Satellite Event: Tools and Demonstrations co-located with ACM/IEEE 20th International Conference on Model Driven Engineering Languages and Systems (MODELS 2017)
+Content based images retrieval based on implicit gaze annotations
+Handling variability at the code level : modeling, tracing and checking consistency
+Prioritized Norms in Formal Argumentation
+Comparaison des Modèles et Architectures pour un Accès Mobile Restreint et Local au Web de Données : Un état de l’art des architectures et solutions envisageables
+DEPOSIT : une approche pour exprimer et déployer des politiques de collecte sur des infrastructures de capteurs hétérogènes et partagées
+The first international competition on computational models of argumentation: Results and analysis
+KPPF: Keypoint-based Point-Pair-Feature for scalable automatic global registration of large RGB-D scans
+Towards Embedded System Agile Development Challenging Verification, Validation and Accreditation : Application in a Healthcare Company
+LDScript: a Linked Data Script Language
+A Scenario-Based Approach for Checking Consistency in User Interface Design Artifacts
+A Model to Represent Nomenclatural and Taxonomic Information as Linked Data
+Personalizing Actions in Context for Risk Management using Semantic Web Technologies
+CARS -A Multi-agent Framework to Support the Decision Making in Uncertain Spatio-temporal Real-world Applications
+Handling Topical Metadata Regarding the Validity and Completenes of Multiple-Source Information: A possibilistic approach
+Event detection and analysis on short text messages
+Event detection and analysis on short text messages
+Towards Artificial Argumentation
+Allied: A Framework for Executing Linked Data- Based Recommendation Algorithms
+Ontology Population and Alignment for the Legal Domain: YAGO, Wikipedia and LKIF
+xR2RML: Relational and Non-Relational Databases to RDF Mapping Language
+TAXREF-LD: A Reference Thesaurus for Biodiversity on the Web of Linked Data
+PRIMA 2017: Principles and Practice of Multi-Agent Systems - 20th International Conference, Nice, France, October 30 - November 3, 2017, Proceedings
+Scientific workflows: Past, present and future
+Detecting Toxicity Pathways with a Formal Framework based on Equilibrium Changes
+On the Diversity of Capturing Variability at the Implementation Level
+Early Consistency Checking between Specification and Implementation Variabilities
+OntoApp : une approche déclarative pour la simulation du fonctionnement d’un logiciel dès une étape précoce du cycle de vie de développement
+Handling noisy labels in gaze-based CBIR system
+Argument Mining on Twitter: Arguments, Facts and Sources
+Enhancing domain-specific ontologies at ease
+Pour tout le monde : Tim Berners-Lee, lauréat du prix Turing 2016 pour avoir inventé..
+For everything: Tim Berners-Lee, winner of the 2016 Turing award for having invented… the Web
+A new urban segregation-growth coupled model using a belief-desire-intention possibilistic framework
+WASABI: a Two Million Song Database Project with Audio and Cultural Metadata plus WebAudio enhanced Client Applications
+Real time tube guitar amplifier simulation using WebAudio
+Web Audio Guitar Tube Amplifier vs Native Simulations
+Learning from Ontology Streams with Semantic Concept Drift
+SINGLETS: Multi-Resolution Motion Singularities for Soccer Video Abstraction
+Emotion recognition using musical mnemotherapy with three physiological sensors
+An Evolutionary Algorithm for Discovering Multi-Relational Association Rules in the Semantic Web
+Challenges to Support Scalable Software Composition
+Integrating Heterogeneous Data Sources in the Web of Data
+You'll Never Tweet Alone Building Sports Match Timelines from Microblog Posts
+Graph-based Event Extraction from Twitter
+Un validateur d'ontologies par rapport à des profils OWL implémenté dans le langage STTL
+Automatic Generation of Educational Quizzes from Domain Ontologies
+Peuplement d'une base de connaissance par annotation automatique de textes relatifs à la cosmétique
+Multiple Bayesian Models for the Sustainable City: The Case of Urban Sprawl
+The Mapping of Predicted Triplex DNA:RNA in the Drosophila Genome Reveals a Prominent Location in Development- and Morphogenesis-Related Genes
+<i>Web Science 2017 (WebSci17)</i>, Jun 2017, Troy, NY, United States
+Méthodes d’apprentissage interactif pour la classification des messages courts
+Bottom-up enrichment of top-down ontologies through annotation
+Vers l'argumentation automatique d'expérimentations : application à un portfolio de workflows
+Probabilistic Models Towards Controlling Smart-* Environments
+A Low-cost, High-coverage Legal Named Entity Recognizer, Classifier and Linker 
+Knowledge Modelling and Processing for the Social Semantic Web
+Combining Fuzzy Logic and Formal Argumentation for Legal Interpretation
+Semantic Web-Mining and Deep Vision for Lifelong Object Discovery
+Tracing Imperfectly Modular Variability in Software Product Line Implementation
+Making Sense of Indoor Spaces Using Semantic Web Mining and Situated Robot Perception
+van Deemter K., Computational Models of Referring: A study in cognitive science
+From user goals to process-based service compositions: A flexible semantic-based approach
+Emotions and personality traits in argumentation: An empirical evaluation1
+Towards a Spatio-Temporal Agent-Based Recommender System
+Improving Confidence in Experimental Systems through Automated Construction of Argumentation Diagrams
+Semantic Linking for Event-Based Classification of Tweets
+An Ontological Approach for Organizing a Knowledge Base to Share and Reuse Business Workflow Templates
+ClusterVis: Visualizing Nodes Attributes in Multivariate Graphs
+Construction du référentiel taxonomique commun TAXREF, socle pour la connaissance et l'échange de données
+Access control policies and companies data transmission management
+Web de données liées et Web sémantique
+A Survey of Definitions and Models of Exploratory Search
+Integrating heterogeneous data sources in the Web of data
+Intermediate Common Model—The Solution to Separate Concerns and Responsiveness in Dynamic Context-Aware System
+A Qualitative Framework Dedicated to Toxicology
+Using Closed Patterns to Solve the Consensus Clustering Problem
+How useful randomness for cryptography can emerge from multicore-implemented complex networks of chaotic maps
+Redecentralizing the Web with Distributed Ledgers
+Attributed graph mining in the presence of automorphism
+A RADAR for information reconciliation in Question Answering systems over Linked Data
+Extraction de relations pour le peuplement d'une base de connaissance à partir de tweets
+Supporting Mobile Web Augmentation by end users
+An End-User Development approach for Mobile Web Augmentation
+Learning Slowly To Learn Better: Curriculum Learning for Legal Ontology Population
+Legal NERC with ontologies, Wikipedia and curriculum learning
+Proceedings of the 13th International Conference on Semantic Systems, SEMANTICS 2017
+Persuasive Argumentation and Emotions: An Empirical Evaluation with Users
+Comparative Validation of Polyp Detection Methods in Video Colonoscopy: Results from the MICCAI 2015 Endoscopic Vision Challenge
+Possibilistic testing of OWL axioms against RDF data
+Overlapping community detection and temporal analysis on Q&A sites
+Prediction of miRNA-disease Associations using an Evolutionary Tuned Latent Semantic Analysis
+Les mots des candidats, de « allons » à « vertu »
+B
+Model of a Context-Aware Middleware for Mobile Workers
+An Agent-Based Architecture for Personalized Recommendations
+Weaving a Web of Linked Resources: Editorial
+Wikipedia, une encyclopédie en communs
+Uncertain logical gates in possibilistic networks: Theory and application to human geography
+Distributed Web browsing: supporting frequent uses and opportunistic requirements
+A MODEL-BASED APPROACH FOR DESCRIBING OFFLINE NAVIGATION OF WEB APPLICATIONS
+A FORMAL ONTOLOGY FOR DESCRIBING INTERACTIVE BEHAVIORS ON USER INTERFACES
+A Comparative Study of Milestones for Featuring GUI Prototyping Tools
+Automated Deployment of Data Collection Policies over Heterogeneous Shared Sensing Infrastructures
+The Decentralization of Knowledge: How Carnap and Heidegger influenced the Web
+Argument Mining on Italian News Blogs
+Overview of the Evalita 2016 SENTIment POLarity Classification Task
+Legal Knowledge and Information Systems - JURIX 2016: The Twenty-Ninth Annual Conference, Proceedings
+Combining NLP Approaches for Rule Extraction from Legal Documents
+A closed patterns-based approach to the consensus clustering problem
+An hybrid method for fine-grained content based image retrieval
+On the Behavioral Drift Estimation of Ubiquitous Computing Systems in Partially Known Environments
+Opportunistic Human Activity Recognition: a study on Opportunity dataset
+LDScript: a Linked Data Script Language
+Construction d’un référentiel taxonomique commun pour des études sur l’histoire de la zoologie, l’archéozoologie et la biologie
+Evolutionary Discovery of Multi-Relational Association Rules from Ontological Knowledge Bases
+Populating a Knowledge Base with Object-Location Relations Using Distributional Semantics
+A Formalization Of Standard Knowledge And Skills For The French Elementary School Curricula
+A SPARQL distributed query processing engine addressing both vertical and horizontal data partitions
+EEA-Aware For Large-Scale Scientific Applications On Heterogeneous Architectures
+Le Web de données
+Temporal and semantic analysis of richly typed social networks from user-generated content sites on the web
+Mapping-based SPARQL access to a MongoDB database
+Delaying decisions in variable concern hierarchies
+Semantic Web Technologies for improving remote visits of museums, using a mobile robot
+Materializing the editing history of Wikipedia as linked data in DBpedia
+A Multi-context BDI Recommender System: from Theory to Simulation
+Joint model of topics, expertises, activities and trends for question answering Web applications
+Wikipedia editing history in DBpedia : extracting and publishing the encyclopedia editing activity as linked data
+Towards a Software Product Line for Machine Learning Workflows: Focus on Supporting Evolution
+Introduction to the special section on pervasive computing
+Human action recognition based on 3D skeleton part-based pose estimation and temporal multi-resolution analysis
+A Belief-Based Approach to Measuring Message Acceptability
+Fuzzy Labeling for Abstract Argumentation: An Empirical Evaluation
+Aspects socioculturels et temporels dans les ontologies pour les communautés virtuelles
+ReDyAl: A Dynamic Recommendation Algorithm based on Linked Data
+Validating Ontologies against OWL 2 Profiles with the SPARQL Template Transformation Language
+A Repository of Frame Instance Lexicalizations for Generation
+A Mapping-based Method to Query MongoDB Documents with SPARQL
+Explanatory Diagnosis of an Ontology Stream via Reasoning About Actions
+Energy Modeling and Architecture Exploration for Emotion Detection Systems
+Towards Lifelong Object Learning by Integrating Situated Robot Perception and Semantic Web Mining
+KNEWS: Using Logical and Lexical Semantics to Extract Knowledge from Natural Language
+LOV4IoT: A second life for ontology-based domain knowledge to build Semantic Web of Things applications
+Reusing and Unifying Background Knowledge for Internet of Things with LOV4IoT
+Using Named Entities to Discover Heterogeneous Events on Twitter
+Digitality, (un)knowledge and the ontological character of non-knowledge
+Prioritized Norms and Defaults in Formal Argumentation
+Opportunistic Composition of Human-Computer Interactions in Ambient Spaces
+A Pragma-Semantic Analysis of the Emotion/Sentiment Relation in Debates
+Multiple Consensuses Clustering by Iterative Merging/Splitting of Clustering Patterns
+SMACk: An Argumentation Framework for Opinion Mining
+Checking the Compliance of Business Process in Business Process Life Cycle
+DBpédia.fr : retour sur la publication de données de la culture française
+Utilisation des Random Forests pour la reconnaissance d'activité humaine: une étude complète avec le jeu de données d'Opportunity
+Composition opportuniste de fragments d'IHM pour une interaction adaptative en environnement ambiant
+Re-Source, une archive en temps réel pour la publication et la production
+Using Frequent Closed Pattern Mining to Solve a Consensus Clustering Problem
+Adapting Semantic Spreading Activation to Entity Linking in text
+Ontologies-Based Platform for Sociocultural Knowledge Management
+Frequent Closed Patterns Based Multiple Consensus Clustering
+Système de Détection des émotions : architecture et autonomie
+Catching Relevance in One Glimpse: Food or Not Food?
+Machine Learning under the light of Phraseology expertise: use case of presidential speeches, De Gaulle -Hollande (1958-2016)
+Du TALN au LOD : Extraction d'entités, liage, et visualisation
+ProVoc : une ontologie pour décrire des produits sur le Web
+Du recueil d'expertises à la production de logiciels fiables Application aux systèmes de neurostimulation médicale
+Building a Rationale Diagram for Evaluating User Story Sets
+Prediction of miRNA-disease associations with a vector space model
+Semantic Categorization of Segments of Ancient and Mediaeval Zoological Texts
+Building a General Knowledge Base of Physical Objects for Robots
+Enriching a Small Artwork Collection through Semantic Linking
+DART: a Dataset of Arguments and their Relations on Twitter
+DRANZIERA: An Evaluation Protocol For Multi-Domain Opinion Mining
+A model to reduce complexity and maintain coherence between Access Control and Transmission Control policies
+Proceedings of the Second International Workshop on Semantic Web for Scientific Heritage (SW4SH 2016) co-located with the 13th Extended Semantic Web Conference (ESWC 2016)
+IoT Efficient Design Using WComp Framework and Discrete Event Modeling and Simulation
+Cartographier l’ontologie d’un territoire sur le web : Le cas de la Bolivie
+A Generic Mapping-Based Query Translation from SPARQL to Various Target Database Query Languages
+The Linux Scheduler: a Decade of Wasted Cores
+Interactive generic learning method (IGLM)
+Towards a (de)composable workflow architecture to define data collection policies
+Ontology Enrichment by Discovering Multi-Relational Association Rules from Ontological Knowledge Bases
+Guitar pedal board using WebAudio
+Querying RDF Data Using A Multigraph-based Approach
+Ensuring the Correctness of Business Workflows at the Syntactic Level: An Ontological Approach
+Abstract Dialectical Frameworks for Text Exploration
+A Multi-context Framework for Modeling an Agent-Based Recommender System
+Fine-Grained Object Recognition in Underwater Visual Data
+A Ontology-based Approach for Business Process Compliance Checking
+Comparative analysis of multi-objective evolutionary algorithms for QoS-aware web service composition
+Fast and Portable Locking for Multicore Architectures
+Summary Report of The First International Competition on Computational Models of Argumentation
+Tweeties Squabbling: Positive and Negative Results in Applying Argument Mining on Social Media
+Semantic Business Process Regulatory Compliance Checking Using LegalRuleML
+Ensuring the Correctness of Business Workflows at the Syntactic Level: An Ontological Approach
+Graph-Based Representation and Reasoning: Proceedings of the 22th Conference on Conceptual Structures, ICCS 2016
+Un language et un serveur de transformation de graphes pour le Web de données
+A Formalization of the French Elementary School Curricula
+Translation of Heterogeneous Databases into RDF, and Application to the Construction of a SKOS Taxonomical Reference
+Parallel Strategies Selection
+Argument Mining
+Analyse intelligente des réseaux sociaux
+An Open and Secure E-Commerce Cloud
+MultiCons: Multiple Consensus Clustering Method Using Frequent Closed Pattern Mining
+Semantic Linking to Enrich Small Artwork Collections: Experiences with Archivio di Nuova Scrittura
+Assisting IoT Projects and Developers in Designing Interoperable Semantic Web of Things Applications
+Improvements in Information Extraction in Legal Text by Active Learning
+Safe Composition in Middleware for the Internet of Things
+Answering N-Relation Natural Language Questions in the Commercial Domain
+Simplified detection and labeling of overlapping communities of interest in question-and-answer sites
+The BioKET Plant Data Warehouse: Ontology Mapping Concept and Visualization 
+Deep Tweets: from Entity Linking to Sentiment Analysis
+Inconsistencies Detection in Bipolar Entailment Graphs
+FunSPARQL: Extension of SPARQL with a Functional Language
+A hybrid model of cell cycle in mammals
+Proceedings of the 10th Workshop on Workflows in Support of Large-Scale Science
+Enseignement des modèles de tâches à Nice Sophia Antipolis
+UbiUnity: a Dynamic Visual Simulation Framework for Web of Things
+Run-time knowledge model enrichment in SWoT: A step toward ambient services selection relevancy
+Generation of Transmission Control Rules Compliant with Existing Access Control Policies
+Make our Scientific Datasets Accessible and Interoperable on the Web
+Translation of Relational and Non-Relational Databases into RDF with xR2RML
+A Generic RDF Transformation Software and its Application to an Online Translation Service for Common Languages of Linked Data
+Ludo: An Ontology to Create Linked Data Driven Serious Games
+B
+Apprendre des actions utilisateur pour guider le processus de configuration dans les lignes de produits logiciels
+Trusted Integration of Wireless Sensor Networks into Herd Control Monitoring Application
+Applying Internet of Things for Personalized Healthcare in Smart Homes
+One gaze is worth ten thousand (key-)words
+Uncertain Logical Gates in Possibilistic Networks
+Extended Query Pattern Graph and Heuristics - based SPARQL Query Planning
+A Generic Service Oriented Software Platform to Design Ambient Intelligent Systems
+Semantic-based web services for devices selection
+Sous la dictée de l’ange… 
+Cross-Domain Internet of Things Application Development: M3 Framework and Evaluation
+Integrating Machine-to-Machine Measurement Framework into oneM2M Architecture
+A Rule-Based Language for Integrating Business Processes and Business Rules
+A Dynamic Visual Simulation Environment for Internet of Things
+oneM2M Architecture based User Centric IoT Application Development
+Emotions in Argumentation: an Empirical Evaluation
+Sehili Souhila, Laurent Capocchi, J.F
+Detecting and Classification of the Basic Emotions Using a Multimodal Approach for Emotions Detection
+Social Specialization of Space: Clustering Households on the French Riviera
+Detecting topics and overlapping communities in Question and Answer sites
+HuTO: une Ontologie Temporelle Narrative pour les Applications du Web Sémantique : HuTO: une Ontologie Temporelle Narrative 
+A Semantic Engine for Internet of Things: Cloud, Mobile Devices and Gateways 
+Un navigateur pour les données liées du Web
+Discrete Event Modeling and Simulation for IoT Efficient Design Combining WComp and DEVSimPy Framework
+Cartographier le Web a-t-il un sens ?
+RECIPE RECOGNITION WITH LARGE MULTIMODAL FOOD DATASET
+Leveraging ambient applications interactions with their environment to improve services selection relevancy
+Dynamic knowledge model evolution in SWoT: a way to improve services selection relevancy over time
+Control flow-based business workflow templates checking : an approach using the knowledge-based systems
+How to make brain imaging research efficient and reproducible: building software and standards
+Multimodal Recognition of Emotions Using Physiological Signals with the Method of Decision-Level Fusion for Healthcare Applications
+Handling Regulatory Goal Model Families as Software Product Lines
+Folksonomies, Thésaurus et Ontologies : trois artefacts combinés dans la structuration des données du Web
+Proceedings of the First International Workshop Semantic Web for Scientific Heritage at the 12th ESWC 2015 Conference
+Studying the History of Pre-Modern Zoology with Linked Data and Vocabularies
+Towards a Shared Reference Thesaurus for Studies on History of Zoology, Archaeozoology and Conservation Biology
+The Semantic Web: Latest Advances and New Domains: 12th European Semantic Web Conference, ESWC 2015, Portoroz, Slovenia, May 31 -- June 4, 2015
+Towards a Better Understanding of Critiques about Ancient Texts using Argumentation
+MT5: a HTML5 multitrack player for musicians
+STTL: A SPARQL-based Transformation Language for RDF
+A User-Centric Approach for Security Management
+Identifying Reputable Contributors During Requirements Gathering in Collaborative Software Development Platforms
+A Computational Model of Trust Based on Message Content and Source
+Biodiversity and Environment Data Mining
+PadDOC : vie privée et sécurité centrées sur l’utilisateur - Etat de l’art
+Software product lines evolution for valuable reusability
+Information Extraction with Active Learning: A Case Study in Legal Text
+Biodiversity knowledge extraction techniques (BioKET)
+Propagating and Aggregating Fuzzy Polarities for Concept-Level Sentiment Analysis
+Construire une norme langagière à partir des régularités linguistiques dans des situations de communications professionnelles
+Quelle méthode ergonomique élaborer pour évaluer les moteurs de recherche exploratoire ?
+Composition Challenges for Sensor Data Visualization
+Frequent Pattern Mining in Attributed Trees: algorithms and applications
+Etat de l'art sur les techniques de transfert data/audio/vidéo basées Web 
+Software Development Support for Shared Sensing Infrastructures: A Generative and Dynamic Approach
+Ontology-Based Workflow Validation
+Hepatic lentiviral gene transfer prevents the long-term onset of hepatic tumours of glycogen storage disease type 1a in mice
+A visual support for decomposing complex feature models
+Improving SVM Training Sample Selection Using Multi-Objective Evolutionary Algorithm and LSH
+Comparative Study of Recent Multimodal Evolutionary Algorithms
+A Transformation Language for RDF based on SPARQL
+Thezoo: un thesaurus de zoologie ancienne et médiévale pour l’annotation de sources de données hétérogènes
+Smart Geographic object: Toward a new understanding of GIS Technology in Ubiquitous Computing
+Semantic Web Evaluation Challenges: SemWebEval 2015 at ESWC 2015, Portorož, Slovenia, May 31 – June 4, 2015, Revised Selected Papers
+The Semantic Web: ESWC 2015 Satellite Events: ESWC 2015 Satellite Events, Portorož, Slovenia, May 31--June 4, 2015, Revised Selected Papers
+L’ingénierie philosophique de Rudolf Carnap : De l'IA au Web sémantique
+Processus moteurs en mémoire à court terme verbale: Une analyse par électromyographie laryngée
+Social polarization in the metropolitan area of Marseille
+Défis 2025
+Computer-Assisted Segmentation of Videocapsule Images Using Alpha-Divergence-Based Active Contour In The Framework of Intestinal Pathologies Detection
+Partage et réutilisation de règles sur le Web de données
+Plateforme ouverte, évolutive, sécurisée et orientée utilisateur pour l'e-commerce
+Linked data based exploratory search
+Privacy-enabled scalable recommender systems
+A dataset of RDF licenses
+Standardizing Generic Cross-Domain Applications in Internet of Things
+Heuristics-based SPARQL Query Planning
+OntoVIP: An ontology for the annotation of object models used for medical image simulation.
+Introduction toSocialRadio Case Studies and Perspectives
+Testing OWL Axioms against RDF Facts: A Possibilistic Approach
+Actes de la 9ème conférence des Technologies de l’Information et de la Communication pour l’Enseignement (TICE 2014)
+La ressource et les agencements fragiles du web : La philosophie du web comme soin apporté aux choses
+Proceedings of the 9th Workshop on Workflows in Support of Large-Scale Science
+Ndiaye
+Fish Species Recognition from Video using SVM Classifier
+Predicting query performance and explaining results to assist Linked Data consumption
+Composition ubiquitaire d'applications pour la remontée d'alerte dans un EHPAD pour des aides-soignantes de nuit
+The BioKET Biodiversity Data Warehouse: Data and Knowledge Integration and Extraction
+Transformation et visualisation de données RDF à partir d’un corpus annoté de textes médiévaux latins
+Statistical Region-Based Active Contour Using Optimization of Alpha-Divergence Family For Image Segmentation
+LIVE: a Tool for Checking Licenses Compatibility between Vocabularies and Data
+Mise en œuvre pratique de réseaux possibilistes pour modéliser la spécialisation sociale dans les espaces métropolisés
+QASM: a Q&A Social Media System Based on Social Semantics
+Reconciling Information in DBpedia through a Question Answering System
+Using Fuzzy Logic For Multi-Domain Sentiment Analysis
+Survey of linked data based exploration systems
+Demo paper: Helping IoT application developers with Sensor-based Linked Open Rules
+QALM: a Benchmark for Question Answering over Linked Merchant Websites Data
+SPARQL Query Result Explanation for Linked Data
+Using the Micropublications ontology and the Open Annotation Data Model to represent evidence within a drug-drug interaction knowledge base
+Col-Graph: Towards Writable and Scalable Linked Open Data
+Domain Specific Languages for Managing Feature Models: Advances and Challenges
+Towards a foundational representation of potential drug-drug interaction knowledge
+The relevance of model-driven engineering thirty years from now
+Unifying the Shift and Narrow Strategies in Focus+Context Exploratory Search
+Impact de la médiatisation technologique sur la mobilisation des modalités non-verbales dans les références démonstratives
+Metamorphic Domain-Specific Languages: A Journey Into the Shapes of a Language
+Question Answering over Linked Data (QALD-4)
+Evaluating the usability of a visual feature modeling notation
+The Pervasiveness of Machine Learning in Omics Science: Foundations, Methods and Applications
+Reusing and Combining UI, Task and Software Component Models to Compose New Applications
+Exploratory search on topics through different perspectives with DBpedia
+Short Text Classification Using Semantic Random Forest
+An Ontology-Based Approach for Helping to Secure the ETSI Machine-to-Machine Architecture
+An Argumentation-based Support System for Requirements Reconciliation
+An ASPIC-based legal argumentation framework for deontic reasoning
+NoDE: A Benchmark of Natural Language Arguments
+SIGMA: Scala Internal Domain-Specific Languages for Model Manipulations
+Handling Complex Configurations in Software Product Lines: a Tooled Approach
+Accept, decline, postpone: How newcomer productivity is reduced in English Wikipedia by pre-publication review
+Ensuring the Semantic Correctness of Workflow Processes: An Ontological Approach
+Syntactic Possibilistic Goal Generation
+Empirical Study on Overlapping Community Detection in Question and Answer Sites
+Philosophie du Web et Ingénierie des Connaissances
+Toward an Ontology-Based Chatbot Endowed with Natural Language Processing and Generation
+Testing Carlo Cipolla's Laws of Human Stupidity with Agent-Based Modeling
+A Machine Learning Approach to SPARQL Query Performance Prediction
+An alternative version of HTTPS to provide non-repudiation security property (A flexible component-based approach for secured transactions in a mobile environment): A flexible component-based approach for secured transactions in a mobile environment
+Managing a Software Ecosystem Using a Multiple Software Product Line: a Case Study on Digital Signage Systems
+WOLF: a Research Platform to Write NFC Secure Applications on Top of Multiple Secure Elements (With an Original SQL-Like Interface)
+Ontology-based Intelligent Transportation Systems
+Solving the TTC'14 FIXML Case Study with SIGMA
+Sensor Data Visualisation: A Composition-Based Approach to Support Domain Variability
+Domain-specific summarisation of Life-Science e-experiments from provenance traces
+Towards a Benchmark of Natural Language Arguments
+Client-Side Hybrid Rating Prediction for Recommendation
+Why did they post that argument? Communicative Intentions of Web 2.0 Arguments
+An Architecture to Support the Collection of Big Data in the Internet of Things
+Automated argumentation mining to the rescue? Envisioning argumentation and decision-making support for debates in open online collaboration communities
+Domain knowledge Interoperability to build the Semantic Web of Things
+Représentation des connaissances sémantiques lexicales de la Théorie Sens-Texte : conceptualisation, représentation, et opérationnalisation des définitions lexicographiques
+Unifying and Extending User Story Models
+Méthodologie d'ingénierie des connaissances pour la représentation des définitions lexicographiques dans le cadre de la théorie Sens-Texte
+Evolution « agile » de lignes de systèmes d’information
+Quel dispositif d'assistance aux courses concevoir pour les futures personnes âgées ?
+Developing and using the Neuroimaging and Data Sharing Data Model: the NIDASH Working Group
+Integrating Adaptation Mechanisms Using Control Theory Centric Architecture Models: A Case Study
+A tool to improve requirements review in collaborative software development platforms
+An Ontology-Enabled Approach for Modelling Business Processes
+Informing the Design of a Software-Development Assessment Method with the “Coordinative Artifacts” Framework  
+Cipiere, G
+Global Initiative for Sentinel e-Health Network on Grid (GINSENG), Medical data integration and semantic developments for epidemiology
+Boosting QAKiS with multimedia answer visualization
+Predicting SPARQL Query Performance
+Hybrid Model Rating Prediction with Linked Open Data for Recommender Systems
+The Semantic Web: Trends and Challenges: 11th International Conference, ESWC 2014, Anissaras, Crete, Greece, May 25-29, 2014
+What are the Important Properties of an Entity? Comparing Users and Knowledge Graph Point of View
+A Fuzzy System for Concept-Level Sentiment Analysis
+Error-Tolerant RDF Subgraph Matching for Adaptive Presentation of Linked Data on Mobile
+Generating and Summarizing Explanations for Linked Data
+Predicting SPARQL Query Performance and Explaining Linked Data
+Modeling Arguments in Scientific Papers to Support Pharmacists
+Using VAPOR to improve VO administration and operations
+Programmer le web de données avec un "Wiki-based IDE"
+Un Wiki/IDE pour exploiter le web de données
+Un éditeur de définitions formelles pour les connaissances lexicales de la théorie Sens-Texte
+Publication, partage et réutilisation de règles sur le Web de données
+SPARQL Template : un langage de Pretty Printing pour RDF
+At the Cross-Roads between Human-Computer Interaction and Model Driven Engineering
+These Are Your Rights - A Natural Language Processing Approach to Automated RDF Licenses Generation
+A survey of RDB to RDF translation approaches and tools
+Actes des 25es journées francophones d'Ingénierie des Connaissances (IC 2014)
+Classifying Inconsistencies in DBpedia Language Specific Chapters
+Composite interests' exploration thanks to on-the-fly linked data spreading activation
+Software Architectures and Multiple Variability
+Developing Web of Data Applications from the Browser
+A Wiki Way Of Programming For The Web Of Data
+Semantic Mashup with the Online IDE WikiNEXT
+The three 'W' of the World Wide Web call for the three 'M' of a Massively Multidisciplinary Methodology
+SPARQL Template: A Transformation Language for RDF
+SpineFM & TOCSIN : un moteur de raisonnement et son interface de configuration
+Assets de la ligne de produit YourCast :  : assets logiciels utilisés pour réaliser un SDI 
+WikiNEXT: a wiki for exploiting the web of data
+ACTRESS: Domain-Specific Modeling of Self-Adaptive Software Architectures
+Manipulating Models Using Internal Domain-Specific Languages
+Modeling Uncertainty when Estimating IT Projects Costs
+Enrich Machine-to-Machine Data with Semantic Web Technologies for Cross-Domain Applications 
+Making Linked Open Data Writable with Provenance Semirings
+Coloured Petri Nets-based Approach for Manipulating RDF Data
+Architectures logicielles et variabilité multiple
+Vectorisation paramétrée des données textuelles
+Galois Closure Based Association Rule Mining from Biological Data
+Ontologie(s) - De la métaphysique au Web en passant par l’Intelligence Artificielle
+Toward a Philosophy of the Web: Foundations and Open Problems
+Interview with Tim Berners-Lee
+The Web as Ontology: Web Architecture Between REST, Resources, and Rules
+Mind the Cultural Gap: Bridging Language-Specific DBpedia Chapters for Question Answering
+Experiences in teaching variability modeling and model-driven generative techniques
+Exploiting the Internet of Things to Teach Domain-Specific Languages and Modeling: The ArduinoML project
+Trusting the messenger because of the message: feedback dynamics from information quality to source evaluation
+A Syntactic Possibilistic Belief Change Operator: Theory and empirical study
+On the Input/Output behavior of argumentation frameworks
+Computational Logic in Multi-Agent Systems - 15th International Workshop, CLIMA XV, Prague, Czech Republic, August 18-19, 2014
+The Eighth International Workshop on Variability Modelling of Software-intensive Systems, VaMoS '14
+Licentia: a Tool for Supporting Users in Data Licensing on the Web of Data
+Checking Licenses Compatibility between Vocabularies and Data
+A Neuro-Evolutionary Approach to Electrocardiographic Signal Classification
+Taaable: a Case-Based System for personalized Cooking
+Context-Aware Presentation of Linked Data on Mobile
+Distinguer/Expliciter: L'ontologie du Web comme ontologie "d'opérations"
+Volatile and intermediate volatility organic compounds in suburban Paris: variability, origin and importance for SOA formation
+A la recherche des connaissances du Web...
+Applying Belief Revision to Case-Based Reasoning
+Conceptual workflows
+Résolution des interférences pour la composition dynamique de services en informatique ambiante
+Modélisation et détection des émotions à partir de données expressives et contextuelles
+A Natural Language Bipolar Argumentation Approach to Support Users in Online Debate Interactions
+Heuristics for Licenses Compostion
+A Natural Language Account for Argumentation Schemes
+Emotion Ontology for Context Awareness
+Regression algorithm for emotion detection
+Toward a Philosophy of the Web: Foundations and open problems
+Standardized evaluation framework for evaluating coronary artery stenosis detection, stenosis quantification and lumen segmentation algorithms in computed tomography angiography.
+Context-aware access control and presentation of linked data
+Domain-specific modeling language for self-adaptive software system architectures
+Detecting Bipolar Semantic Relations among Natural Language Arguments with Textual Entailment: a Study
+Representation of RDF-oriented Composition with OWL DL Ontology
+Proceedings of the 8th Workshop on Workflows in Support of Large-Scale Science
+A Hadoop MapReduce Performance Prediction Method
+Predicting SPARQL Query Execution Time and Suggesting SPARQL Queries Based on Query History
+An Ontology to Semantically Annotate the Machine-to-Machine (M2M) Device Measurements
+One License to Compose Them All - A Deontic Logic Approach to Data Licensing on the Web of Data
+Assisted Policy Management for SPARQL Endpoints Access Control
+Hunting for Inconsistencies in Multilingual DBpedia with QAKiS
+Argumentation-based Inconsistencies Detection for Question-Answering over DBpedia
+Using Trust and Possibilistic Reasoning to Deal with Untrustworthy Communication in VANETs
+Une introduction à l'univers de Briefs
+From Sensors to Visualization Dashboards: Need for Language Composition
+Composing your Compositions of Variability Models
+Report on the First Workshop On the Globalization of Modeling Languages (GEMOC 2013)
+Feature Model Management: Smart Operations and Language Support
+Mobile Cloud Applications and Traceabiliy
+Multilingual Question Answering over Linked Data (QALD-3): Lab Overview
+STAC: Un outil pour vous aider à sécuriser vos applications
+Rewriting Rules for the Computation of Goal-Oriented Changes in an Argumentation System
+From Discourse Analysis to Argumentation Schemes and Back: Relations and Differences
+Scénarisation d'interactions avec les objets du formalisme des Graphes d'Unités et prototypage d'un éditeur de définitions lexicographiques formelles
+Aide à la création et à l'exploitation de réglementations basée sur les modèles et techniques du Web sémantique
+The Unit Graphs Framework: Foundational Concepts and Semantic Consequence
+Rationale, Concepts, and Current Outcome of the Unit Graphs Framework
+Discovery Hub: on-the-fly linked data exploratory search
+Statistical Model of Shape Moments with Active Contour Evolution for Shape Detection and Segmentation
+Journal of Grid Computing, special issue on workflows
+Bundle and Pool Architecture for Multi-Language, Robust, Scalable Workflow Executions
+Fine-Grain Interoperability of Scientific Workflows in Distributed Computing Infrastructures
+Computer-Assisted Scientific Workflow Design
+Separating Concerns in Feature Models: Retrospective and Support for Multi-Views
+The Unit Graphs Framework: A new graph-based Knowledge Representation Formalism for ECD Knowledge Representation
+Reasoning with Dependency Structures and Lexicographic Definitions using Unit Graphs
+Application of the Unit Graphs Framework to Lexicographic Definitions in the RELIEF project
+SPLEMMA: A Generic Framework for Controlled-Evolution of Software Product Lines
+Decomposing Semantic Inferences
+B
+Argumentation Theoretic Foundations for Abstract Dependence Networks
+Securing Mobile Mashups with SCCM
+Algorithms for Data Mining and Bio-informatics
+Challenges in Bridging Social Semantics and Formal Semantics on the Web
+SharpWComp 3.2
+SharpWComp 3.2
+Extraction and Evolution of Architectural Variability Models in Plugin-based Systems
+Composition d'applications multi-modèles dirigée par la composition des interfaces graphiques
+A System to Analyze the User' Security Options for Mobile Cloud Applications
+Les ressources, des ombres récalcitrantes : Objet(s) et objectivation sur le Web : entre attachement, enquête et instauration
+Vers une expérimentation socio-sémantique dans le domaine du tourisme soutenable
+Représentation des connaissances du DEC: Concepts fondamentaux du formalisme des Graphes d'Unités
+A Causal Model to predict the Effect of Business Process Evolution on Quality of Service
+Using Rewriting Rules to Compute Successful Modifications of an Argumentation System
+A deontic logic semantics for licenses composition in the web of data
+FAMILIAR: A Domain-Specific Language for Large Scale Management of Feature Models
+Démonstrateur Continuum: Continuité de Services Appliquée au Travailleur Mobile des Métiers de l'Eau
+Démonstrateur Continuum: Continuité de Services Appliquée au Travailleur Mobile des Métiers de l'Eau
+Logiciels pour Pôles Santé de Proximité/Infrastructure de collecte d'information : Etudes
+Fouille de données et Apprentissage statistique
+Synthèse d'activités du groupe PSP
+Informatique ambiante et prévention santé : U-Health, des services à la personne pour extraire des indicateurs significatifs et fournir des conseils sur mon hygiène de vie
+Formation IAM : des projets d'ingénieurs créatifs
+Informatique ambiante et application à l'auto-quantification de la santé (U-HEALTH)
+Recherche en informatique ambiante
+Access Control for HTTP Operations on Linked Data
+A Support Framework for Argumentative Discussions Management in the Web
+An architecture to aggregate heterogeneous and semantic sensed data
+Querying multilingual DBpedia with QAKiS
+Exploratory search on the top of DBpedia chapters with the Discovery Hub application
+A machine-to-machine architecture to merge semantic sensor measurements
+The STAC (Security Toolbox: Attacks & Countermeasures) ontology
+Filling the Gaps Among DBpedia Multilingual Chapters for Question Answering
+How to Exploit Domain Knowledge in Multiple Software Product Lines?
+Emphasizing Dysfunctional Group Dynamics in Collaboration Personas: Specification of an Approach
+Ingénierie dirigée par les modèles : quels supports à l'interopérabilité des systèmes d'information ?
+VAPOR Vo Administration and operations PORtal
+biomed VO Operational status & issues
+Summarized Explanations from Linked Justifications
+Highlighting Stakeholder Communities to Support Requirements Decision-Making
+Statistical region based active contour using a fractional entropy descriptor: Application to nuclei cell segmentation in confocal microscopy images
+The Unit Graphs Mathematical Framework
+Distributed knowledge sharing and production through collaborative e-Science platforms
+A Social Semantic Web Access Control Model
+Dependency in Cooperative Boolean Games
+Building Ontologies for analyzing data expressed in natural language
+ISICIL: Semantics and Social Networks for Business Intelligence
+A Security Framework for Mobile Cloud Applications
+A socio-cognitive model of trust using argumentation theory
+Adaptive MOEA/D for QoS-Based Web Service Composition
+Secure Mobile-Cloud Framework - Implementation on the Mobile Device
+Personalized Security Mechanism for Mobile Cloud Applications
+Overview on Mobile Cloud Computing Security Issues
+Integration of Secure Mobile Cloud Framework into a Mobile Cloud Application Scenario
+"Adore", a logical meta-model supporting business process evolution
+Multimodal Approach for Emotion Recognition Using a Formal Computational Model
+A virtual imaging platform for multi-modality medical image simulation.
+Boosted kernel for image categorization
+The Seventh International Workshop on Variability Modelling of Software-intensive Systems, VaMoS '13
+Social Semantic Network-Based Access Control
+A Complete Life-Cycle for the Semantic Enrichment of Folksonomies
+Earth Modeling using Web Services
+Computer Science and Ambient Intelligence
+Live Linked Data: Synchronizing Semantic Stores with Commutative Replicated Data Types
+Proceedings of the 5th ACM Web Science Conference, 2013 Paris, France, WebSci '13
+Design of an ontology for the annotation of object models used for medical image simulation
+Hunting for Entailing Pairs in the Penn Discourse Treebank
+A Symmetric Compositional Approach for Adaptive Ubiquitous Systems
+KGRAM Versatile Inference and Query Engine for the Web of Linked Data
+A logic of argumentation for specification and verification of abstract argumentation frameworks
+WComp, Middleware for Ubiquitous Computing and System Focused Adaptation
+Middleware in Ubiquitous Computing
+International Cooperation for Trust
+Multimodal Approach for Emotion Recognition Using an Algebraic Representation of Emotional States
+Expérimentation de co-conception inter-universitaire
+Annotated Component-Based Description for Application Composition
+The Dynamic Composition of Independent Adaptations including Interferences Management
+Spamming in Linked Data
+Licenses Compatibility and Composition in the Web of Data
+Towards Licenses Compatibility and Composition in the Web of Data
+QAKiS: an Open Domain QA System based on Relational Patterns
+RDF Modelling and SPARQL Processing of SQL Abstract Syntax Trees
+Proceedings of the 7th Workshop on Workflows in Support of Large-Scale Science
+Vers des interfaces graphiques flexibles de configuration
+Detecting depression using multimodal approach of emotion recognition
+Multimodal recognition of emotions using a formal computational model
+Towards Conflict Management in User Interface Composition Driven by Business Needs
+Semantic Federation of Distributed Neurodata
+Multimodal auto-tagging of music title using estimator aggregration
+Boosting Kernel Combination for multi-class image categorization
+Using Composite Feature Models to Support Agile Software Product Line Evolution
+Next-Generation Model-based Variability Management: Languages and Tools
+OntoVIP: an ontology for the annotation of object models used for medical image simulation
+Alpha-divergences pour la segmentation d'images par contours actifs basés histogrammes : Application à l'analyse d'images médicales et biomédicales
+Semantic Web Approach to Ease Regulation Compliance Checking in Construction Industry
+Generating Abstract Arguments: a Natural Language Approach
+Application and UI Composition Using a Component-Based Description and Annotations
+Composing Multiple Variability Artifacts to Assemble Coherent Workflows
+Enhancing Goal-based Requirements Consistency: an Argumentation-based Approach
+A model driven approach for bridging ILOG Rule Language and RIF
+Bridging the Gap between RIF and SPARQL: Implementation of a RIF Dialect with a SPARQL Rule Engine
+A brief review of explanation in the Semantic Web
+Belief revision-based case-based reasoning
+Context-Aware Access Control for RDF Graph Stores
+Hybrid Possibilistic Conditioning for Revision under Weighted Inputs
+A tensor based on optical flow for global description of motion in videos
+Reusing User Interface across Devices with Different Design Guidelines
+20th European Conference on Artificial Intelligence (ECAI 2012), Aug 2012, Montpellier, France
+Towards a Semantic-based Approach for Modeling Regulatory Documents in Building Industry
+Enabling linked data publication with the Datalift platform
+Gutierrez Rodriguez, Audrey Occello
+Toward a Philosophy of The Web: Foundations and Open Problems
+A New Approach for Association Rule Mining and Bi-clustering using Formal Concept Analysis
+Fractional Entropy Based Active Contour Segmentation of Cell Nuclei in Actin-Tagged Confocal Microscopy Images
+<i>50th Annual Meeting of the Association for Computational Linguistics (ACL 2012)</i>, Jul 2012, Jeju, South Korea
+Current situation facing the needs of the scenarios from the deliverables I2.1.1 and I2.2.1
+A Commutative Model Composition Operator to Support Software Adaptation
+Weaving Variability into Domain Metamodels
+Composition d'interfaces homme-machine
+Graph Structures for Knowledge Representation and Reasoning, Proceeding of Second International Workshop, GKR 2011
+Intergiciels pour l'Informatique Ambiante
+WComp, Intergiciel pour l'Informatique Ambiante et Adaptation Centrée Système
+Philoweb: Toward a Philosophy of the Web
+Decomposing ontology in Description Logics by graph partitioning
+Aide à la rédaction de documents réglementaires dans le domaine du bâtiment
+UI Modeling as Ontology for Composition
+Feature Model Differences
+SHI3LD: an Access Control Framework for the Mobile Web of Data
+Hooper, Nicolas Marie, Evangelos Kalampokis
+User Centricity
+Vers la construction de workflows pour le filtrage sémantique de nouvelles
+Web and Philosophy, Why and What For?: Proceedings of the WWW2012 conference workshop PhiloWeb 2012
+MODAClouds: A model-driven approach for the design and execution of applications on multiple Clouds
+Fédération multi-sources en neurosciences : intégration de données relationnelles et sémantiques
+Première Conférence en IngénieriE du Logiciel, CIEL'2012
+Container WComp
+Android WComp
+Low response time context awareness through extensible parameter adaptation with ORCA
+Scalable and Resilient Workflow Executions on Production Distributed Computing Infrastructures
+The artifactualization of reference and "substances" on the Web.: Why (HTTP) URIs do not (always) refer nor resources hold by themselves (post-print)
+Interopérabilité des systèmes d'information : approches dirigées par les modèles
+Explanation in the Semantic Web: a survey of the state of the art
+QAKiS @ QALD-2
+RUBIX, A Framework for Improving Data Integration with Linked Data

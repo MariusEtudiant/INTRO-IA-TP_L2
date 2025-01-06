@@ -1,0 +1,99 @@
+# Ceci nous sert de base pour tous "<[...]>" déclaré dans le fichier
+@base <http://uca.fr/family/member/> .
+# Ceci sont les prefix, ils nous servent de variables qui sont appelés pour éviter une certaine redondance
+# RDF : Ressource Description Format 
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+# foaf : friend of a friend -> une des URI les plus connues du web sémantique. Elle est utilisée notamment 
+# pour décrire les relations entre individus (knows, ...). Dans le cadre du TP, nous nous limitons à la relation 
+# 'knows' en guise d'exemple
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+# Bien entendu, nous pouvons créer nos propres URI (comme pour @base)
+@prefix uca: <http://uca.fr/staff/> .
+@prefix job: <http://uca.fr/professions/> .
+@prefix type: <http://cestbieng.fr/types/> .
+@prefix prop: <http://uca.fr/property/> .
+
+# /!\ Il manque des informations ... à vous de jouer !
+
+# <Edouard> sera interpreté ainsi:   http://uca.fr/family/Edouard
+<Edouard>
+    # Un élément peut avoir plusieurs types
+    # le ';' permet d'enchaîner sur d'autres spécifications pour cette ressource
+    # le terme 'a' est un raccourci pour spécifier 'rdf:type', il renseigne le type de la ressource
+    # il peut y en avoir 0 ou plusieurs.
+    a type:Person, job:teacher ;
+    # type:Person est équivalent à: http://cestbieng.fr/types/Person
+    prop:gender type:man ;
+    # On peut spécifier des chaînes de caractères ...
+    prop:name "Edouard" ;
+    # ... et des entiers numériques
+    prop:shoesize 43 ;
+    prop:age 40 ;
+    # la taille sera exprimé en cm
+    prop:size 180;
+    # On peut faire le lien avec un autre noeud ...
+    prop:spouse <Jessica> ;
+    # ... et même avec plusieurs autres noeuds. Attention à respecter cette syntaxe: [elem-1], [elem-2], ... , [elem-n] ;
+    # Cette ligne équivaut à :
+    #   foaf:knows uca:Alice ;
+    #   foaf:knows uca:Pierre ;
+    # Ici, on se limite aux connaissances en dehors du contexte familial
+    foaf:knows uca:Alice, uca:Pierre ;
+    prop:parent <Jean>, <Caroline> ;
+    # le '.' permet de spécifier la fin des spécifications pour cette ressource
+    prop:child <Yannick>, <Victoria> .
+
+<Jessica>
+    a type:Person ;
+    prop:gender type:woman ;
+    prop:name "Jessica" ;
+    prop:size 170 ;
+    prop:pantsize 34 ;
+    # Attention ! De manière générale, il est très utile de spécifier les relations dans les deux sens
+    # car si Edouard est marié avec Jessica, l'inverse est aussi vrai ... mais il faut l'écrire.
+    prop:spouse <Edouard> .
+
+<Victoria>
+    a type:Person ;
+    prop:gender type:woman ;
+    prop:name "Victoria" ;
+    prop:age 10 ;
+    prop:parent <Jessica>, <Edouard> .
+
+<Yannick>
+    a type:Person ;
+    prop:gender type:man ;
+    prop:name "Yannick" ;
+    prop:age 17 ;
+    prop:parent <Jessica>, <Edouard> .
+
+<Caroline>
+    a type:Person ;
+    prop:gender type:woman ;
+    prop:child <Edouard>;
+    prop:name "Caroline" ;
+    prop:size 160 ;
+    prop:age 70 .
+
+<Jean>
+    a type:Person ;
+    prop:gender type:man ;
+    prop:child <Edouard> ;
+    prop:name "Jean" ;
+    prop:size 160 ;
+    prop:age  73 .
+
+# Il s'agit d'une ressource venant du prefix uca tel que :
+# http://uca.fr/staff/Alice
+uca:Alice
+    a type:Person , job:teacher ;
+    prop:gender type:woman ;
+    prop:name "Alice" ;
+    foaf:knows uca:Pierre, uca:Edouard.
+
+# Il manque quelqu'un ...
+uca:Pierre
+    a type:Person , job:teacher ;
+    prop:gender type:man ;
+    prop:name "Pierre" ;
+    foaf:knows uca:Alice, uca:Edouard.
